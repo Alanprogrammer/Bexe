@@ -1,7 +1,7 @@
 # Bexe
-
+Programa para bindear archivos exe
 # Requerimientos
-- GO
+- GO(https://golang.org/)
 - Sistema Operativo(Windows)
-#Contacto
+# Contacto
 -dragoncompu2@gmail.com
