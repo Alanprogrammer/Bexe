@@ -2,5 +2,6 @@
 
 # Requerimientos
 - GO
-- Sistema Operitivo(Windows)
-#
+- Sistema Operativo(Windows)
+#Contacto
+-dragoncompu2@gmail.com
