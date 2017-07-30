@@ -6,4 +6,4 @@ Programa para bindear archivos exe
 # Uso
 -
 # Contacto
--dragoncompu2@gmail.com
+- dragoncompu2@gmail.com
