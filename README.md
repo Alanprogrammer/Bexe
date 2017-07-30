@@ -2,7 +2,7 @@
 # Bexe
 Programa para bindear archivos exe
 # Requerimientos
-- GO(https://golang.org/)
+- Go(https://golang.org/)
 - Sistema Operativo(Windows)
 # Uso
 - bexe.exe -exe1="[exe]" -exe2="[exe]" -output="[output]"
