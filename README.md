@@ -5,6 +5,8 @@ Programa para bindear archivos exe
 - GO(https://golang.org/)
 - Sistema Operativo(Windows)
 # Uso
--
+- bexe.exe -exe1="[exe]" -exe2="[exe]" -output="[output]"
+# Ejemplo
+- bexe.exe -exe1="win.exe" -exe2="door.exe" -output="house.exe"
 # Contacto
 - dragoncompu2@gmail.com
