@@ -9,4 +9,4 @@ Programa para bindear archivos exe
 # Ejemplo
 - bexe.exe -exe1="win.exe" -exe2="door.exe" -output="house.exe"
 # Contacto
-- dragoncompu2@gmail.com
+- alanprogrammer@outlook.com
